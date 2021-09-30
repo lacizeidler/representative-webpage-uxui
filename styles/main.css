@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    color: rgb(65, 65, 255);
+}
+
+body {
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+li {
+    list-style: none;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+a {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+img {
+    width: 10%;
+    margin-bottom: 10px;
+}
